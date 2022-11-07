@@ -1,0 +1,18 @@
+
+
+.el-dropdown-menu{
+  background: #3d568e;
+  border-color: #3d568e;
+}
+.el-dropdown-menu>li{
+  color: #fff;
+}
+.el-dropdown-menu>li:hover{
+  background: #6a87c9 !important;
+  color: #fff!important;
+}
+.popper__arrow::after{
+  border-bottom-color:#3d568e!important;
+}
+
+
